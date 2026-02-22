@@ -1,1 +1,1 @@
-Theese are our Project Documentations
+These are our Project Documentations
